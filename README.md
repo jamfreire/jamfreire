@@ -1,5 +1,4 @@
 ### Olá 👋, sou José Andersson, Web Designer & Developer!
-<hr />
 Trabalho com o design e desenvolvimento de interfaces web, desde a criação de protótipos de alta fidelidade até a construção do front-end, utilizando padrões Web (HTML, CSS, Javascript, etc), Angular e outras tecnologias. Adoro trabalhar em ambientes criativos e desafiadores que permitem aprimorar minhas habilidades e crescer profissionalmente.
 <hr />
 
