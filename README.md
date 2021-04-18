@@ -1,6 +1,6 @@
 ### Olá 👋, sou José Andersson, Web Designer & Developer!
 <hr />
-Trabalho com o design e desenvolvimento de interfaces web. Atuo desde a criação de protótipos de alta fidelidade até a construção do front-end, utilizando padrões Web (HTML, CSS, Javascript, etc), Angular e outras tecnologias. Adoro trabalhar em ambientes criativos e desafiadores que permitem aprimorar minhas habilidades e crescer profissionalmente.
+Trabalho com o design e desenvolvimento de interfaces web, desde a criação de protótipos de alta fidelidade até a construção do front-end, utilizando padrões Web (HTML, CSS, Javascript, etc), Angular e outras tecnologias. Adoro trabalhar em ambientes criativos e desafiadores que permitem aprimorar minhas habilidades e crescer profissionalmente.
 <hr />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript Logo" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular Logo" width="50" height="50" />
