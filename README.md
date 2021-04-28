@@ -5,10 +5,9 @@ Trabalho com o design e desenvolvimento de interfaces web, desde a criação de 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="Wordpress Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma Logo" width="36" height="36" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop Logo" width="36" height="36" />
 
-<hr />
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamfreire&hide=java,html,css,scss&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 **jamfreire/jamfreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
